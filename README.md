@@ -14,5 +14,11 @@ The notebooks here released under [Apache 2.0 License](https://www.apache.org/li
 
 Modifications are (c) 2021 Mike Blackstock
 
+Use this tutorial to set up VS Code for using Jupyter notebook
 
+https://code.visualstudio.com/docs/python/data-science-tutorial
+
+pip install the following as needed on the command line:
+
+pandas, jupyter, seaborn, scikit-learn, keras, and tensorflow.
 
