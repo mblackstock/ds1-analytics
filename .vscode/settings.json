@@ -1,4 +1,4 @@
 {
     "jupyter.jupyterServerType": "local",
-    "python.pythonPath": "~/.virtualenvs/notebooks/bin/Python"
+    "python.pythonPath": "/Users/mike/.virtualenvs/ds1-analytics/bin/python"
 }
